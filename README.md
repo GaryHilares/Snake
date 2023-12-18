@@ -14,7 +14,6 @@ This repository is a small version of Snake that I created to put into practice 
 ### Dependencies
 - UBC's Racket installation of Dr. Racket (or equivalent).
 
-
 ## Installation and usage
 You can use the project following these steps:
 1. Download "racket.rkt".
@@ -22,3 +21,7 @@ You can use the project following these steps:
 3. Run the file.
 4. In the interactions area, run `(main (create-game DF-FOOD-NUM))`.
   - This sets the amount of food in the game to the default (3). To play with, say, 5 pieces of food, run `(main (create-game 5))` instead.
+
+
+## License
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/GaryHilares/Snake/blob/main/LICENSE).
